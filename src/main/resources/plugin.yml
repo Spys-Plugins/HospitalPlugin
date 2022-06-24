@@ -1,0 +1,10 @@
+name: Hospital
+version: '${project.version}'
+main: dev.supercoolspy.hospital.Hospital
+api-version: 1.17
+prefix: Hospital
+authors: [ super_cool_spy ]
+website: goldmc.net
+commands:
+  hospital:
+    description: Hospital admin stuff

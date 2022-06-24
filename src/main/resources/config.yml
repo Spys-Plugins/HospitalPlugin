@@ -1,0 +1,15 @@
+Hospital: #Hospital Location set using /hospital setRespawn
+  world:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+Spawn: #Hospital Location set using /hospital setSpawn
+  world:
+  x:
+  y:
+  z:
+  yaw:
+  pitch:
+countdown: 300 #time in seconds
